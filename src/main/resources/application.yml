@@ -1,0 +1,3 @@
+server:
+  port: 8765
+  context-path: /cloud
